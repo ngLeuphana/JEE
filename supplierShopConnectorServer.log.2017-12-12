@@ -1,0 +1,11 @@
+[INFO] 2017-12-12 12:26:28,164 de.leuphana.jee.connector.rmi.behaviour.SupplierShopRmiConnectorServer main - RMI-Registry and RMI-Server run!!!
+[INFO] 2017-12-12 13:31:14,473 de.leuphana.jee.connector.rmi.behaviour.SupplierShopRmiConnectorServer main - RMI-Registry and RMI-Server run!!!
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger before - Enter addArticleFromSupplier
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger afterReturning - Method addArticleFromSupplier executed in 19355 ms
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger afterReturning - Exit addArticleFromSupplier
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger before - Enter addArticleFromSupplier
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger afterReturning - Method addArticleFromSupplier executed in 19355 ms
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger afterReturning - Exit addArticleFromSupplier
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger before - Enter getArticles
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger afterReturning - Method getArticles executed in 19355 ms
+[INFO] 2017-12-12 13:31:32,422 de.leuphana.jee.connector.rmi.behaviour.MethodLogger afterReturning - Exit getArticles
