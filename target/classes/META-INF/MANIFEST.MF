@@ -1,10 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
 Built-By: Claus
 Build-Jdk: 1.8.0_151
-=======
-Built-By: User
-Build-Jdk: 1.8.0_121
->>>>>>> 01e353e594b3f63e47c85c6e225f24ffd158b521
 Created-By: Maven Integration for Eclipse
 
