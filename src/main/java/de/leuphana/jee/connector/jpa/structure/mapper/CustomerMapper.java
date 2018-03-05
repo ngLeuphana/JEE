@@ -1,7 +1,7 @@
 package de.leuphana.jee.connector.jpa.structure.mapper;
 
+import de.leuphana.jee.component.structure.Customer;
 import de.leuphana.jee.connector.jpa.structure.CustomerEntity;
-import de.leuphana.jee.shop.structure.Customer;
 
 public class CustomerMapper {
 

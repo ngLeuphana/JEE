@@ -7,9 +7,9 @@ import javax.persistence.PersistenceContextType;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
 
+import de.leuphana.jee.component.structure.Article;
 import de.leuphana.jee.connector.jpa.structure.ArticleEntity;
 import de.leuphana.jee.connector.jpa.structure.mapper.ArticleMapper;
-import de.leuphana.jee.shop.structure.Article;
 
 @Transactional
 @Component

@@ -1,7 +1,7 @@
 package de.leuphana.jee.connector.jpa.structure.mapper;
 
+import de.leuphana.jee.component.structure.CartItem;
 import de.leuphana.jee.connector.jpa.structure.CartItemEntity;
-import de.leuphana.jee.shop.structure.CartItem;
 
 public class CartItemMapper {
 

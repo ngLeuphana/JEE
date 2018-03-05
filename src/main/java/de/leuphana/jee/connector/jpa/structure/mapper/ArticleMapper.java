@@ -1,7 +1,7 @@
 package de.leuphana.jee.connector.jpa.structure.mapper;
 
+import de.leuphana.jee.component.structure.Article;
 import de.leuphana.jee.connector.jpa.structure.ArticleEntity;
-import de.leuphana.jee.shop.structure.Article;
 
 public class ArticleMapper {
 

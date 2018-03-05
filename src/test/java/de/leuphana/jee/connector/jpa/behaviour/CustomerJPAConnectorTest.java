@@ -9,10 +9,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import de.leuphana.jee.shop.structure.Article;
-import de.leuphana.jee.shop.structure.Cart;
-import de.leuphana.jee.shop.structure.CartItem;
-import de.leuphana.jee.shop.structure.Customer;
+import de.leuphana.jee.component.structure.Article;
+import de.leuphana.jee.component.structure.Cart;
+import de.leuphana.jee.component.structure.CartItem;
+import de.leuphana.jee.component.structure.Customer;
+
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(value={"/applicationContext-article-JPA-Connector.xml", "/applicationContext-customer-JPA-Connector.xml"})
